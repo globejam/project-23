@@ -45,7 +45,7 @@ function draw() {
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("EPIC ARCHERY", width / 2, 100);
+  text("EPIC ARCHERY", width / 2, 75);
 
    //Display Playerbase and computer base 
   playerbase.display();
